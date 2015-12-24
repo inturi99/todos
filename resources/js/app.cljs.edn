@@ -1,0 +1,3 @@
+{:require  [todos.app]
+ :init-fns [todos.app/init]
+ :compiler-options {:asset-path "js/app.out" :devcards true}}
